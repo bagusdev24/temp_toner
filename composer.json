@@ -8,7 +8,8 @@
       "Bagusdev\\TempToner\\": "src/"
     },
     "files": [
-      "src/Helpers/helper.php"
+      "src/Helpers/function.php",
+      "src/Helpers/function_query.php",
     ]
   },
   "extra": {
