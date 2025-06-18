@@ -1,0 +1,23 @@
+{
+  "name": "bagusdev/temp-toner",
+  "description": "Laravel Template Starter (Toner)",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Bagusdev\\TempToner\\": "src/"
+    },
+    "files": [
+      "src/Helpers/helper.php"
+    ]
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Bagusdev\\TempToner\\TonerServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
