@@ -9,7 +9,7 @@
     },
     "files": [
       "src/Helpers/function.php",
-      "src/Helpers/function_query.php",
+      "src/Helpers/function_query.php"
     ]
   },
   "extra": {
